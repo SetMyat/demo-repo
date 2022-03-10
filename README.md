@@ -1,3 +1,3 @@
 # Demo
 
-This is description for git demo.
+This is description for git demo!
